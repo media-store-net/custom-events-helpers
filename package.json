@@ -1,0 +1,24 @@
+{
+  "name": "@media-store-net/custom-events",
+  "version": "1.0.0",
+  "description": "Custom Event and DOM utility functions with TypeScript support",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "events",
+    "dom",
+    "utilities",
+    "typescript"
+  ],
+  "author": "Ihr Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+
+}
