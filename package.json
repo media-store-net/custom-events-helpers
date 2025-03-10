@@ -14,11 +14,12 @@
     "utilities",
     "typescript"
   ],
-  "author": "Ihr Name",
+  "author": "Artur Voll<kontakt@media-store.net>",
+  "repository": "https://github.com/media-store-net/custom-events-helpers",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.0.0",
     "typescript": "^5.0.0"
-  }
-
+  },
+  "private": false
 }
